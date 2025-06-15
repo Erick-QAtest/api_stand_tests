@@ -3,7 +3,7 @@
 # configuration.py
 
 # URL base del servicio de Tripleten
-URL_SERVICE = " https://cnt-b539c747-d951-4a2a-8da5-9617a8d7e0ac.containerhub.tripleten-services.com"
+URL_SERVICE = "https://cnt-7e5ce5db-3bcc-471f-af2c-39f05603d0e2.containerhub.tripleten-services.com"
 
 # Rutas específicas de los endpoints
 DOC_PATH = "/docs"
