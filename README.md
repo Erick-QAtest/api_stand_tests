@@ -10,7 +10,7 @@ To set up and run this project in your local environment, follow these steps:
 Clone the Repository:
 If you haven't already, clone this Git repository to your local machine.
 
-git clone https://github.com/your_username/your_repo.git # Make sure to change this to your repository URL!
+git clone https://github.com/Erick-QAtest/api_stand_tests # Make sure to change this to your repository URL!
 cd your_repo
 
 Create and Activate a Virtual Environment:
