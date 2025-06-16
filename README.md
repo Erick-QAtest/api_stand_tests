@@ -149,3 +149,6 @@ Scenario: firstName as a number type (e.g., 12).
 
 Type: Negative (expects 400 Bad Request - type error).
 
+## Última Actualización
+
+Este proyecto se actualizó el 16 de junio de 2025 con nuevos cambios.
